@@ -1,6 +1,8 @@
-# FundamentosAngular
+# Fundamentos Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+Esse projeto foi desenvolvido dentro do Programa Start by Capgemini - Trilha Java, com intuito de aprender na prática, como utilizar a plataforma de desenvolvimento voltada para frontend de aplicações web `Angular`.
+
+Esse projeto foi gerado por [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.6.
 
 ## Development server
 
